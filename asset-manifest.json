@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Calci/static/css/main.a6aff8d5.chunk.css",
+    "main.js": "/Calci/static/js/main.8805a0d7.chunk.js",
+    "main.js.map": "/Calci/static/js/main.8805a0d7.chunk.js.map",
+    "runtime-main.js": "/Calci/static/js/runtime-main.5f19205f.js",
+    "runtime-main.js.map": "/Calci/static/js/runtime-main.5f19205f.js.map",
+    "static/js/2.4796995a.chunk.js": "/Calci/static/js/2.4796995a.chunk.js",
+    "static/js/2.4796995a.chunk.js.map": "/Calci/static/js/2.4796995a.chunk.js.map",
+    "index.html": "/Calci/index.html",
+    "precache-manifest.0a1498ccfbeab6ad1f3a7b58488ef2a1.js": "/Calci/precache-manifest.0a1498ccfbeab6ad1f3a7b58488ef2a1.js",
+    "service-worker.js": "/Calci/service-worker.js",
+    "static/css/main.a6aff8d5.chunk.css.map": "/Calci/static/css/main.a6aff8d5.chunk.css.map",
+    "static/js/2.4796995a.chunk.js.LICENSE.txt": "/Calci/static/js/2.4796995a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Calci/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f19205f.js",
+    "static/js/2.4796995a.chunk.js",
+    "static/css/main.a6aff8d5.chunk.css",
+    "static/js/main.8805a0d7.chunk.js"
+  ]
+}
